@@ -31,6 +31,8 @@ The following points will be discussed during the course of the master-class
 
 This masterclass is suitable for people who use R for data analysis and are keen to gain a basic understanding of how to use RStudio in backing up a project containing Rmarkdown files on a github server.
 
+Remove this
+
 ## **How to navigate the webpages**{.unlisted}
 * Please use the Menu bar to move between lessons. The submenus from main menu option `Setup` can be used to install the pre-requisites.  
 * The topics under the menu `Git for version control` touch on the individual steps which we will follow in todays code-along session.
